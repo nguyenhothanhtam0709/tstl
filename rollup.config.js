@@ -13,7 +13,6 @@ module.exports = {
     typescript({
       tsconfig: "tsconfig.json",
       module: "ES2020",
-      target: "ES2020",
     }),
     terser({
       format: {
