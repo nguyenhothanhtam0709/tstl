@@ -1,3 +1,6 @@
+# Overview
+This is my fork of [Jeongho Nam](https://github.com/samchon)'s [TypeScript-STL](https://github.com/samchon/tstl) with some minor modification to suit my own projects.
+
 # TypeScript Standard Template Library
 ![tstl](https://user-images.githubusercontent.com/13158709/222362879-3da6c27f-8f73-4b1d-b63a-ec23ff51e71e.png)
 
