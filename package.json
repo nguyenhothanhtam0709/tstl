@@ -110,5 +110,8 @@
     "!lib/test",
     "!src/benchmark",
     "!src/test"
-  ]
+  ],
+  "engines": {
+    "node": ">=20"
+  }
 }
